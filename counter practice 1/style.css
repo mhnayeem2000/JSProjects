@@ -1,0 +1,10 @@
+.wraper{
+    width: 600px;
+    margin: 200px auto;
+}
+
+.counter{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 500;
+}
