@@ -1,0 +1,43 @@
+.h1{
+    color:#000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    margin-top: 20px;
+}
+.btn{
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    background:rgb(0, 255, 247);
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.box{
+
+    width: 350px;
+    height: 250px;
+    background:#FD5901;
+    border-radius: 5px;
+    overflow: hidden;
+    position: absolute;
+    margin: auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+#ans{
+    color: aliceblue;
+    font: 2em sans-serif;
+}
+
+.b2{
+    height: 550px;
+}
+.b2 images {
+    width: 50%;
+    height: 50%;
+    size: 3cm;
+}
