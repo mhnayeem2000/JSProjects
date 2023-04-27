@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/User/Desktop/JS",
-      "program": "c:/Users/User/Desktop/JS/build/Debug/outDebug",
+      "cwd": "c:/Users/User/Desktop/JS/Learn With Sumit/lession 01",
+      "program": "c:/Users/User/Desktop/JS/Learn With Sumit/lession 01/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
