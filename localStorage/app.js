@@ -19,8 +19,7 @@ const students =[
     },
 ];
 
-
-localStorage.setItem();
+localStorage.setItem('student',JSON.stringify(students));
 
 
 
